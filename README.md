@@ -2,7 +2,7 @@
 <img src="https://github.com/sophiaray2101/sophiaray2101/assets/108088739/e7f3f01a-a3e8-4524-8ed0-d902939b25b1" width = "200">
 
 ## Education
-* University of California, Santa Barbara (UCSB), Computer Science major, Sept 2021-June 2025
+* University of California, Santa Barbara (UCSB), Computer Science major (Sept 2021-June 2025)
 * GPA: 3.84
 * Coursework
 
