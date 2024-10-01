@@ -32,6 +32,13 @@
   * leadership, communication, problem solving, teamwork, innovative
  
 ## Projects
+
+* Task Manager App
+
+   * Coded using React.js for user interface, and HTML/CSS for structuring and styling
+   * This project uses React Router to navigate through different pages, the main one being the task list page
+   * Users can add/delete tasks, mark as completed, and filter through those tasks in order to stay organized and neat
+   * Designed to fit different screen sizes for a smooth user experience
  
 * Giphy Search Engine
 
@@ -51,18 +58,12 @@
   * Fully functioning compiler for a subset of the C-flat language with 5 stages: lexing, parsing, lowering, codegen, and optimization
   * Takes in the code in the C flat language and will compile optimally
  
-* Ball Collision Simulation
-
-  * Coded in python, animations created using matplotlib
-  * Animates a pool table with two balls and simulates the collisions between the balls and the walls
-  * It can simulate any different starting positions and velocities
-  * Uses the laws of physics and motion to update the animation in each frame and considers dampening/friction forces when colliding with the walls
-
 ## Project Links
 
 * [Giphy Search Engine](https://github.com/sophiaray2101/giphy-search-engine)
 * [Restaurant Website](https://github.com/sophiaray2101/Restaurant_website)
 * [C Flat Compiler](https://github.com/sophiaray2101/c_flat_compiler)
+* [Task Manager App](https://github.com/sophiaray2101/react-todo)
 
 ## Contact Me
 
