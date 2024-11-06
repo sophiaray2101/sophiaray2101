@@ -33,6 +33,13 @@
  
 ## Projects
 
+* Healthy Living FAQs
+
+   * Built using React for the front-end, React Router for navigation, and CSS for styling.
+   * This application connects to a RESTful API to retrieve data dynamically, providing users with access to a variety of health-related questions and answers.
+   * Functionality includes: user authentification, category browsing, dynamic Q&A display, and error handling.
+   * Designed with responsive design principles to ensure smooth user experience across different screen sizes and devices.
+
 * Task Manager App
 
    * Coded using React.js for user interface, and HTML/CSS for structuring and styling
@@ -64,6 +71,7 @@
 * [Restaurant Website](https://github.com/sophiaray2101/Restaurant_website)
 * [C Flat Compiler](https://github.com/sophiaray2101/c_flat_compiler)
 * [Task Manager App](https://github.com/sophiaray2101/react-todo)
+* [Healthy Living FAQs](https://github.com/sophiaray2101/healthy-living-app)
 
 ## Contact Me
 
